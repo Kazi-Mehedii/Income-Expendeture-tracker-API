@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sUZqRbG3U6tPcjUYnhbMBhruv6Z5tgtsBD+EpeNC7HM=",
+  "Source": "IncomeExpense_TrackerAPI",
+  "BasePath": "_content/IncomeExpense_TrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
