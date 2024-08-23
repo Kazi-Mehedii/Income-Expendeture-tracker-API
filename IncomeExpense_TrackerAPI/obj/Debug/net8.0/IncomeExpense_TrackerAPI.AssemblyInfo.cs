@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IncomeExpense_TrackerAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d4cb9f80ce5d843e712f3c3a89ee012c0137f69")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55325bc3120c92c3c7d65d5710216025994651ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("IncomeExpense_TrackerAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IncomeExpense_TrackerAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
